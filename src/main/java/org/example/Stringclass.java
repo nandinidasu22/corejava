@@ -16,7 +16,7 @@ public class Stringclass {
      */
     // String internally used equals and hashcode to compare the objects...
     public class void main (String ar[]){
-        System.out.println(str1.hashCode());s
+        System.out.println(str1.hashCode());
         System.out.println(str2.hashCode());
         System.out.println(str1+ "  "+str2);
         System.out.println(str1.toUpperCase());
